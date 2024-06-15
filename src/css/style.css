@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Boink';
-    src: url('Boink.ttf'); 
+    src: url('../fonts/Boink.ttf'); 
 }
 
 body {

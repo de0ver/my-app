@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import ShowDate from './ShowDate';
-import ShowInfo from './ShowInfo';
-import './style.css';
+import ShowDate from './jsx/ShowDate';
+import ShowInfo from './jsx/ShowInfo';
+import './css/style.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
